@@ -1,4 +1,4 @@
-puts "Hello, World - In quotes"    ;
+puts "Hello, World - In quotes"    ; # this is a comment
 # This is a comment 
 puts {Hello, World - In Braces}
 puts {Bad comment syntax example}   # *Error* - there is no semicolon!
